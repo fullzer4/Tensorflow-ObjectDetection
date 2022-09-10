@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gabriel</folder>
+	<filename>gabrield8bcccd7-312e-11ed-bf5c-3c7c3f77fd05.jpg</filename>
+	<path>C:\Users\yfullzer4\Documents\projetosIA\ObjectDetection\cellphone\Tensorflow\workspace\images\collectedimages\gabriel\gabrield8bcccd7-312e-11ed-bf5c-3c7c3f77fd05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gabriel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>40</ymin>
+			<xmax>336</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>
